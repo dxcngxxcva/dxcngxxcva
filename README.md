@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Electrical Engineering at Telecom Sud-Paris.
+- 👯 I’m looking to collaborate on any ML/AI projects.
+- 📫 How to reach me: ducnguyenminhcva@gmail.com
